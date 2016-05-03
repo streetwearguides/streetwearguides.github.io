@@ -6,9 +6,43 @@
 </description>
     <link>http://streetwearguides.com/</link>
     <atom:link href="http://streetwearguides.com/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 01 May 2016 17:41:44 -0400</pubDate>
-    <lastBuildDate>Sun, 01 May 2016 17:41:44 -0400</lastBuildDate>
+    <pubDate>Mon, 02 May 2016 18:38:43 -0400</pubDate>
+    <lastBuildDate>Mon, 02 May 2016 18:38:43 -0400</lastBuildDate>
     <generator>Jekyll v3.1.3</generator>
+    
+      <item>
+        <title>This is the post title</title>
+        <description>&lt;h1 id=&quot;main-header-for-the-article&quot;&gt;Main header for the article&lt;/h1&gt;
+
+&lt;p&gt;This is some introductory text &lt;em&gt;this is italics&lt;/em&gt; and &lt;strong&gt;this is bold&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;A empty newline is required for a newline.&lt;/p&gt;
+
+&lt;h2 id=&quot;here-is-a-header-that-is-a-little-smaller&quot;&gt;Here is a header that is a little smaller&lt;/h2&gt;
+
+&lt;h5 id=&quot;here-is-the-smallest-header&quot;&gt;Here is the smallest header&lt;/h5&gt;
+
+&lt;p&gt;If you want a link &lt;a href=&quot;http://google.com&quot;&gt;text displayed&lt;/a&gt; adding an image is similar you do &lt;img src=&quot;http://www.polyvore.com/cgi/img-thing?.out=jpg&amp;amp;size=l&amp;amp;tid=66596892&quot; alt=&quot;hover text&quot; /&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Item one&lt;/li&gt;
+  &lt;li&gt;Item two
+    &lt;ul&gt;
+      &lt;li&gt;Sub item&lt;/li&gt;
+      &lt;li&gt;another one&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Item three&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+        <pubDate>Mon, 02 May 2016 00:00:00 -0400</pubDate>
+        <link>http://streetwearguides.com/2016/05/02/ArticleTitle.html</link>
+        <guid isPermaLink="true">http://streetwearguides.com/2016/05/02/ArticleTitle.html</guid>
+        
+        <category>list, of, tags, comma, seperated</category>
+        
+        
+      </item>
     
   </channel>
 </rss>
